@@ -1,0 +1,15 @@
+{
+    "TOKEN": "MTE2ODUyNzIyMzQxNDg2NTkyMA.GPSV0F.SI8oTIAp3lOpPu-JjGQdF6w_GKAehBy7v4n194",
+
+    "MONGO_DB": "mongodb+srv://hacker:chetan2004@cluster0.rxh8r.mongodb.net/?retryWrites=true&w=majority",
+
+    "cooldown": false,
+
+    "owner": ["988811215667077150", "1141693830844915742"],
+
+    "admin": ["988811215667077150", "1141693830844915742"],
+
+    "np": ["988811215667077150", "1141693830844915742","1010417625978912800"],
+
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=${1168527223414865920}&permissions=8&scope=bot"
+}
